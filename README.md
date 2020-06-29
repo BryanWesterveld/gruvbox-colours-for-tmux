@@ -7,7 +7,6 @@ Only the arrows and colours have been changed to better fit the gruvbox theme an
 <img src="screenshot.png" style="width: 100%; max-width: 600px; text-align: center;"/>
 
 ## Installation through the [Tmux Plugin manager](https://github.com/tmux-plugins/tpm)
-### Tmux Plugin Manager
 Add this repository as a plugin to your `.tmux.conf`:
 ```tmux
 set -g @plugin 'bryanwesterveld/gruvbox-colours-for-tmux'
