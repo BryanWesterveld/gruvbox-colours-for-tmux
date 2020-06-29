@@ -4,7 +4,7 @@ Changes the default colours of [tmux](https://github.com/tmux/tmux) to something
 This project is a fork of [tmux-gruvbox](https://github.com/egel/tmux-gruvbox) and heavily inspired by [tmux-gruvbox-truecolor](https://github.com/LawAbidingCactus/tmux-gruvbox-truecolor).
 Only the arrows and colours have been changed to better fit the gruvbox theme and my personal preferences.
 
-<img src="scrot.png" style="width: 100%; max-width: 600px; text-align: center;"/>
+<img src="screenshot.png" style="width: 100%; max-width: 600px; text-align: center;"/>
 
 ## Installation through the [Tmux Plugin manager](https://github.com/tmux-plugins/tpm)
 ### Tmux Plugin Manager
